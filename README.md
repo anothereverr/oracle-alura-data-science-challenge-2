@@ -75,6 +75,41 @@ El dataset contiene **7,267 registros** de clientes con **21 variables** que inc
 ### Carga
 - Dataset limpio con **7,043 registros** listos para análisis
 
+## 📉 Graficos de análisis 
+### Distribución de variables numericas
+<img width="1283" height="917" alt="image" src="https://github.com/user-attachments/assets/aa5700e7-bedf-4639-8670-1425792adf1c" />
+
+### Distribución Churn
+<img width="1299" height="500" alt="image" src="https://github.com/user-attachments/assets/85393d3c-96ad-4e8e-b771-11c216d0506c" />
+
+### Demografia 
+<img width="1284" height="917" alt="image" src="https://github.com/user-attachments/assets/870fc866-ca08-4ded-b738-1c8155090cdc" />
+
+### Contrato de servicios
+<img width="1287" height="916" alt="image" src="https://github.com/user-attachments/assets/2fc1b57c-fb7b-4fac-b4aa-7a8b62972a7e" />
+
+### Servicios adicionales 
+<img width="1473" height="918" alt="image" src="https://github.com/user-attachments/assets/154f1aef-bac6-49da-b302-517e0bb658a3" />
+
+### Cantidad de servicios
+<img width="997" height="602" alt="image" src="https://github.com/user-attachments/assets/303fb3ef-6f91-4175-a0a7-909d9f1ed9c0" />
+
+### Antiguedad de cliente
+<img width="1198" height="600" alt="image" src="https://github.com/user-attachments/assets/c7530df1-0f7c-4d8b-9385-93e8f5498e76" />
+
+### Boxplot 
+<img width="1495" height="528" alt="image" src="https://github.com/user-attachments/assets/3f64281d-28e6-48be-9a9e-ee2caf0d242f" />
+
+### Matrix de correlación
+<img width="995" height="914" alt="image" src="https://github.com/user-attachments/assets/621920e5-270e-453b-bcb9-f77f77cc45f8" />
+
+### Grafico de dispersión: cargo diario vs antiguedad del cliente
+<img width="1374" height="916" alt="image" src="https://github.com/user-attachments/assets/1560b1a1-c75d-46bf-b1ca-82230fe0da48" />
+
+### Resumen de hallazgos
+<img width="1071" height="916" alt="image" src="https://github.com/user-attachments/assets/eb3cf8a5-44c4-4723-a7bd-22b89bbe81b6" />
+
+
 ## 📈 Principales Hallazgos
 
 ### Tasa de Churn General: **26.5%**
@@ -134,3 +169,15 @@ El dataset contiene **7,267 registros** de clientes con **21 variables** que inc
 | Cargo_Mensual | +0.19 | Mayor cargo mensual → Mayor churn |
 | Factura_Digital | +0.19 | Factura digital → Mayor churn |
 | Seguridad_Online | -0.17 | Con seguridad → Menor churn |
+
+
+
+
+
+
+
+
+
+
+
+
